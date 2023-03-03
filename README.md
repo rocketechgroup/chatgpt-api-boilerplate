@@ -7,7 +7,7 @@ Chat GPT API boilerplate
 1. Setup billing (it's not free) by going to https://platform.openai.com/account/billing/overview and link your credit card.
 1. Generate yourself an API key here https://platform.openai.com/account/api-keys
 
-## How to use - curl
+## How to use
 If you just want to try it out without installing anything, just do the following in the terminal. 
 ```
 export OPENAI_API_KEY=<replace with your api key>
